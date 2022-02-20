@@ -1,6 +1,6 @@
 # Sirma - Pairs of employees who have worked together
 
-To start the project run npm install \n
+To start the project run npm install
 
 ## Used dependancies
 
